@@ -9,7 +9,7 @@ Currently I am learning **GraphQL**, and getting my-self better at **React-Nativ
 
 If you have any app or project idea (even a Todo app with a twist will work), I'm down to talk about it.
 
-If you want to reach out to me for any doubts, issues - feel free to drop a message. I will try my best to help you out.
+If you want to reach out to me for any doubts, issues, suggestion - feel free to drop a message. I will try my best to help you out.
 
 💬: You can contact me at krupapanchal2527@gmail.com, or message me on [LinkedIn](https://www.linkedin.com/in/krupa-panchal-80022514b).
      
