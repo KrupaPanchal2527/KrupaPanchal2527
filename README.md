@@ -7,7 +7,7 @@ Apart from that I have fairly good grip on backend technologies like Node, Expre
 
 Currently I am learning **GraphQL**, and getting my-self better at **React-Native**.
 
-If you have any app or project idea (even a Todo app with a twist will work), I'm down to talk about it.
+If you have any app or project idea (even a Todo app with a twist will work), I'm up to discuss the same.
 
 If you want to reach out to me for any doubts, issues, suggestion - feel free to drop a message. I will try my best to help you out.
 
