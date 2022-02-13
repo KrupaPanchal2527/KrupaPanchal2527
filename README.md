@@ -13,17 +13,12 @@ If you want to reach out to me for any doubts, issues, suggestion - feel free to
 
 💬: You can contact me at krupapanchal2527@gmail.com, or message me on [LinkedIn](https://www.linkedin.com/in/krupa-panchal-80022514b).
      
-   I also happen to be on [Twitter](https://twitter.com/krupa__panchal), Stackoverflow and Reddit (but I am noob over there).  
+   I also happen to be on Twitter, Stackoverflow and Reddit (but I am noob over there).  
      
 CodePen: https://codepen.io/krupapanchal2527
 
 CodeSandbox: https://codesandbox.io/u/KrupaPanchal2527
      
-🔭: Currently I am working on a small **Expense Tracker** project. (Interesting fact is it won't include a database or backend).
-Main motive behind not keeping a database and a server is - 
-Basically in these days where technology is involved from our day start to day end, some people don't like to put their data out there, let it be anything.
-We all want privacy at some point. so this Expense Tracker data will only stay with you. It won't live somewhere in an unknown location, and data getting used elsewhere without you knowing it. And come on, who will want their Expense to be public.
-
 <!--
 **KrupaPanchal2527/KrupaPanchal2527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
