@@ -2,7 +2,7 @@
 
 I mostly work on React-related technologies for building user-friendly Frontends that keep user interaction and accessibility at the highest. Apart from that I have a fairly good grip on backend technologies like Node, Express and MongoDB.
 
-#### A bit about my working style
+### A bit about my working style
 
 I am a very organized person in general and the same applies to my work as well. I like to document each and everything while working on a project. (I do this using Notion). Similarly, my code also reflects the same quality of tidiness, organisation and reusability.
 
