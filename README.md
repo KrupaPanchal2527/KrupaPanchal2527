@@ -14,7 +14,7 @@ If you have any app or project idea (even a Todo app with a twist will work), I'
 
 If you want to reach out to me for any doubts, issues, or suggestions - feel free to drop me a message. I will try my best to help you out.
 
-💬: You can contact me at krupapanchal2527@gmail.com, or message me on [LinkedIn](https://www.linkedin.com/in/krupa-panchal-80022514b).
+💬: You can contact me at krupapanchal.dev@gmail.com, or message me on [LinkedIn](https://www.linkedin.com/in/krupa-panchal-80022514b).
 
 <div>
   <h3>Find me on</h3>
